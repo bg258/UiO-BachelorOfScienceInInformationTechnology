@@ -1,0 +1,48 @@
+                engelsk                |          norsk           | introdusert 
+---------------------------------------+--------------------------+-------------
+ Arity                                 | Aritet                   | 03-02
+ Atomic                                | Atomær                   | 
+ Attribute                             | Attributt                | 02-01
+ Binary relation                       | Binærrelasjon            | 03-01
+ Candidate key                         | Kandidatnøkkel           | 02-01
+ Clause                                | Klausul                  | 05-01
+ Column                                | Kolonne                  | 05-01
+ Constraint                            | Skranke                  | 02-01
+ Database                              | Database                 | 01-01
+ Database management system            | Databasesystem           | 01-01
+ Domain                                | Domene                   | 02-01
+ Entity                                | Entitet                  | 03-01
+ Entity-relationship diagram           | Entitet-relasjonsdiagram | 03-01
+ Entity-relationship model             | Entitet-relasjonsmodell  | 03-01
+ Entity type                           | Entitetstype             | 03-01
+ Explicit join                         | Eksplisitt join          | 05-01
+ Foreign key                           | Fremmednøkkel            | 02-01
+ Functional dependency                 | Funksjonell avhengighet  | 
+ Implicit join                         | Implisitt join           | 05-01
+ Inner join                            | Indre join               | 02-02
+ Join                                  | Join                     | 02-02
+ Key                                   | Nøkkel                   | 02-01
+ Natural join                          | Naturlig join            | 02-02
+ Normal form                           | Normalform               | 
+ Outer join                            | Ytre join                | 
+ Partial participation                 | Partsiell deltakelse     | 03-01
+ Primary key                           | Primærnøkkel             | 02-01
+ Query                                 | Spørring                 | 01-01
+ Relation                              | Relasjon                 | 02-01
+ Relational algebra                    | Relasjonsalgebra         | 02-01
+ Relational database                   | Relasjonsdatabase        | 01-01
+ Relational database management system | Relasjonsdatabasesystem  | 01-01
+ Relational model                      | Relasjonsmodell          | 02-01
+ Relation instance                     | Relasjonsinstans         | 02-01
+ Relation state                        | Relasjonstilstand        | 02-01
+ Relation type                         | Relasjonstype            | 03-01
+ Role                                  | Rolle                    | 
+ Row                                   | Rad                      | 05-01
+ Schema                                | Skjema                   | 02-01
+ Self join                             | Selv-join                | 05-01
+ Super key                             | Supernøkkel              | 02-01
+ Table                                 | Tabell                   | 05-01
+ Ternary relation                      | Ternærrelasjon           | 03-02
+ Total participation                   | Total deltakelse         | 03-01
+ Tuple                                 | Tuppel                   | 02-01
+ Weak key                              | Svak nøkkel              | 03-01
